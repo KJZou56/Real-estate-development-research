@@ -1,0 +1,1 @@
+This is the final project I completed for the EDA class from the UCLA Data Science certificate program. The project was completed in R. All relevant files are uploaded: instructions, data sets, codes and the report.
