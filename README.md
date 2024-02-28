@@ -9,3 +9,5 @@ asked you to make sure that your report is clear to all readers. The organizatio
 an annotated copy of your R-code in case they need to re-run analyses. 
 
 Generate a data report and summary of the given dataset. 
+
+Data, instruction and a report are included in the repository. 
